@@ -1,0 +1,4 @@
+io\github\naum\livros\Livro.class
+io\github\naum\servlet\LivroServlet.class
+io\github\naum\livros\LivroBean.class
+io\github\naum\livros\LivroBeanLocal.class
